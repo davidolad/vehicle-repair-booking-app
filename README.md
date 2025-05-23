@@ -26,8 +26,9 @@ This app was developed as part of a Flutter internship assignment to showcase:
 #  Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/autoaid.git
-   cd autoaid
+   git clone https://github.com/davidolad/vehicle-repair-booking-app.git
+   cd vehicle-repair-booking-app
+
 
 2. Get dependencies:
    ```bash
